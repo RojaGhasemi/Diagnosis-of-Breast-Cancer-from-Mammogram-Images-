@@ -31,4 +31,4 @@ In this article, we will present an automatic method of classifying mammography 
 
 
 ## Project History
-This project was originally completed in 2011. The commit history has been adjusted to reflect the original dates of the work.
+This project was originally completed in 2021-2022. The commit history has been adjusted to reflect the original dates of the work.
